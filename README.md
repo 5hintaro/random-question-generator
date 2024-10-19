@@ -6,6 +6,8 @@ This app is for English learner.
 
 There are three buttons. When you press one, a random question related to it will be displayed.
 
+[Watch the video](assets/sample.mov)
+
 ## How to start
 
 ```sh
