@@ -79,7 +79,7 @@
   function askQuestion(category) {
     let possibleQuestions = questions[category].filter(q => q !== lastQuestions[category]);
     if (possibleQuestions.length === 0) {
-      // 全ての質問が既に使われた場合は、再度リセット
+      // If all questions have already been used, reset again
       possibleQuestions = questions[category];
     }
     const randomIndex = Math.floor(Math.random() * possibleQuestions.length);

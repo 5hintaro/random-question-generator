@@ -1,9 +1,7 @@
 <script>
-    // JavaScriptコードはここに書く
 </script>
 
 <style>
-    /* CSSスタイリングはここに書く */
     h1 {
         color: red;
     }
